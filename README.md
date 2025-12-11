@@ -1,5 +1,5 @@
 Hi, I'm Syed Muhammad Huzaifa 👋
-I’m a passionate Flutter Developer with over 1.5 years of experience in building beautiful, scalable, and efficient mobile applications. Currently, I’m working at Inara Technologies, where I create engaging and user-friendly apps for a wide range of industries.
+I’m a passionate Flutter Developer with over 3 years of experience in building beautiful, scalable, and efficient mobile applications. Currently, I’m working at Inara Technologies, where I create engaging and user-friendly apps for a wide range of industries.
 
 🚀 About Me
 🔭 I’m currently working at Inara Technologies
